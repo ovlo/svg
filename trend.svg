@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" heigth="600" xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<rect x="20" y="20" width="780" height="580" style="fill:none; stroke:black; stroke-width: 1" />
+<text x="25" y="40" style="" >Amount</text>
+<text x="740" y="580" style="" >Date</text>
+<text x="100" y="60" style="" >Coxxx Trends from OHW.</text>
+<polyline points="40,564 98,574 156,554 214,534 272,514 330,423 388,499 446,388 504,322 562,443 620,75 678,433 736,277 " style=" stroke:red; fill:none; stroke-width:3;" />
+<circle cx="40" cy="564" r="3" style="" />
+<circle cx="98" cy="574" r="3" style="" />
+<circle cx="156" cy="554" r="3" style="" />
+<circle cx="214" cy="534" r="3" style="" />
+<circle cx="272" cy="514" r="3" style="" />
+<circle cx="330" cy="423" r="3" style="" />
+<circle cx="388" cy="499" r="3" style="" />
+<circle cx="446" cy="388" r="3" style="" />
+<circle cx="504" cy="322" r="3" style="" />
+<circle cx="562" cy="443" r="3" style="" />
+<circle cx="620" cy="75" r="3" style="" />
+<circle cx="678" cy="433" r="3" style="" />
+<circle cx="736" cy="277" r="3" style="" />
+
+</svg>
