@@ -1,5 +1,8 @@
 # svg
-Basic implement of svg image for web
+Basic implement of svg image for web.
+## install
+`git clone --depth=1 https://github.com/ovlo/svg` or
+`git clone --depth=1 https://gitee.com/ovlo/svg`
 
 # Example:
 
